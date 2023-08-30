@@ -1,0 +1,6 @@
+c:\users\administrator\documents\visual studio 2013\Projects\TheMinh_Buoi3\TheMinh_Buoi3\bin\Debug\TheMinh_Buoi3.exe.config
+c:\users\administrator\documents\visual studio 2013\Projects\TheMinh_Buoi3\TheMinh_Buoi3\bin\Debug\TheMinh_Buoi3.exe
+c:\users\administrator\documents\visual studio 2013\Projects\TheMinh_Buoi3\TheMinh_Buoi3\bin\Debug\TheMinh_Buoi3.pdb
+c:\users\administrator\documents\visual studio 2013\Projects\TheMinh_Buoi3\TheMinh_Buoi3\obj\Debug\TheMinh_Buoi3.csprojResolveAssemblyReference.cache
+c:\users\administrator\documents\visual studio 2013\Projects\TheMinh_Buoi3\TheMinh_Buoi3\obj\Debug\TheMinh_Buoi3.exe
+c:\users\administrator\documents\visual studio 2013\Projects\TheMinh_Buoi3\TheMinh_Buoi3\obj\Debug\TheMinh_Buoi3.pdb
